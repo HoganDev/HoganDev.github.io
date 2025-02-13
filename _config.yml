@@ -1,0 +1,15 @@
+title: Matthew Hogan 
+description:  My CV
+url: https://hoganinternational.com
+baseurl: ''
+theme_skin: blue
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+    - jekyll-minifier
+
+exclude:
+  - docker-compose.yml

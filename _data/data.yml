@@ -1,0 +1,101 @@
+name: Matthew Hogan
+support_dark_mode: true
+fork: true
+
+# Sidebar
+contact:
+  email: matt@hogan.com
+  github: 
+  linkedin: 
+  phone: 
+  gitlab: 
+  twitter: 
+
+education:
+  - degree: BS in Computer Science
+    time: 2000-2004
+    university: University Of Vermont
+
+  
+skills:
+  - category: Backend
+    skill: 
+      - Go
+      - Rust
+  - category: Frontend
+    skill:
+      - React
+      - Typescript
+  - category: DevOps
+    skill:
+      - Docker
+      - Kubernetes 
+
+# Profile
+profile: |
+  Software developer and Technology-focused product manager with a history of developing solutions for digital innovation projects.  I'm creative, resourceful, and quick to learn new skills and adapt. Consider myself a team player and enjoy collaboration across disciplines.
+
+# Experience
+experience:
+  - role: Head of Product at MOPO Life, Inc
+    time: 
+    company: MOPO Life
+    details: 
+      - Lead product management from prototype through launch for MOPO’s mobileapp
+      - Gather and document consumer and enterprise user requirements to drive product market-fit, user acquisition and retention
+      - Monitor competitive landscape and products to inform innovation and differentiation Collaborate with design, engineering and test leads to drive agile, high quality implementation
+    technologies_used: | 
+      Go, Angular, Typescript, C++
+  
+  - role: Contractor
+    time: 2016-2020
+    company: Float Hybrid
+    details: 
+      - Designed, architected and developed COPA Cube, a data-driven software/hardware solution for a franchised gym to assess professional soccer player'ss kills.
+      - Gathered requirements, contributed in game development, designedarchitecture and collaborated with app and hardware teams to implementoperation solution, test and deliver the solution on time.
+    technologies_used: | 
+      Python, REDIS, Celery, MODBUS, PLC
+
+  - role: Creative Technologist
+    time: 2016-2020
+    company: Gensler
+    details: |
+      - Developed high visibility interactive installations for major brands to promotetheir companies and products to visiting customers <br>
+      - Collaborated with customer and internal business, design and engineeringstakeholders to help plan, architect and implement cutting-edge software/hardware solutions <br>
+      - Solution implementation included hardware and software integration anddevelopment using SCALA, Python, Javascript, APIs, data visualization, dataengineering and cloud services <br>
+    technologies_used: | 
+      Python, REDIS, Celery, MODBUS, PLC
+
+# publications:
+#   - title: Random title of paper. An interesting one.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference, 2016
+
+#   - title: Second title of paper. An interesting one too.
+#     link: "#"
+#     authors: John E. Doe
+#     conference: Some conference again, 2018
+
+# projects:
+#   - title: Cool Project 
+#     link: #
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua.
+
+#   - title: Cool Project 
+#     link: #
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua.
+
+# Volunteering
+# volunteering:
+#   - time: 2020-Present
+#     role: PR Manager
+#     company: Some random organization
+#     details: |
+#       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
