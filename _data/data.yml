@@ -59,10 +59,10 @@ experience:
   - role: Creative Technologist
     time: 2016-2020
     company: Gensler
-    details: |
-      - Developed high visibility interactive installations for major brands to promotetheir companies and products to visiting customers <br>
-      - Collaborated with customer and internal business, design and engineeringstakeholders to help plan, architect and implement cutting-edge software/hardware solutions <br>
-      - Solution implementation included hardware and software integration anddevelopment using SCALA, Python, Javascript, APIs, data visualization, dataengineering and cloud services <br>
+    details: 
+      - Developed high visibility interactive installations for major brands to promotetheir companies and products to visiting customers
+      - Collaborated with customer and internal business, design and engineeringstakeholders to help plan, architect and implement cutting-edge software/hardware solutions
+      - Solution implementation included hardware and software integration anddevelopment using SCALA, Python, Javascript, APIs, data visualization, dataengineering and cloud services
     technologies_used: | 
       Python, REDIS, Celery, MODBUS, PLC
 

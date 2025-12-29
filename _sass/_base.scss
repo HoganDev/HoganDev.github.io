@@ -22,7 +22,7 @@ body {
         margin: 0 auto;
         padding:20px;
         display: grid;
-        grid-template-columns: 2fr 5fr;
+        grid-template-columns: .5fr 5fr .5fr;
         .sidebar {
             margin-top: 20px;
         }

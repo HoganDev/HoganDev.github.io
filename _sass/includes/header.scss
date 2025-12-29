@@ -4,10 +4,21 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    .title {
+    .flower-icon {
+        margin-right: 15px;
+        filter: drop-shadow(0 2px 4px rgba(0,0,0,0.1));
+        animation: gentle-rotate 20s ease-in-out infinite;
+    }
+    @keyframes gentle-rotate {
+        0%, 100% { transform: rotate(0deg); }
+        50% { transform: rotate(10deg); }
+    }
+    .myname {
         color: var(--fg-color-dark);
         font-weight: bolder;
         text-transform: uppercase;
+        font-weight: 900;
+        font-size: 3.5em;
     }
     input[type="checkbox"] {
         width: 0;
